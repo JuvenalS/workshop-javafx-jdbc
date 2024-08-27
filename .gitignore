@@ -34,3 +34,6 @@ nbdist/
 
 # Docker
 data/
+
+# Eclipse
+.settings/
